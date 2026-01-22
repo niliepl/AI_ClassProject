@@ -1,0 +1,134 @@
+Id,Start time,Completion time,Email,Name1,Age,Are you a Malaysian citizen?,State of Residence ,Are you a Malaysian Muslim student?,Year of Study,Program of Study / Course,"Do you have any disciplinary record (Syariah, criminal, or UTP)?",How many subjects did you take for SPM / UEC/ IGCSE,How many of each grade did you receive in SPM / UEC/ IGCSE.A+,How many of each grade did you receive in SPM / UEC/ IGCSE.A,How many of each grade did you receive in SPM / UEC/ IGCSE.A?,How many of each grade did you receive in SPM / UEC/ IGCSE.B+,How many of each grade did you receive in SPM / UEC/ IGCSE.B,How many of each grade did you receive in SPM / UEC/ IGCSE.C+,How many of each grade did you receive in SPM / UEC/ IGCSE.C,How many of each grade did you receive in SPM / UEC/ IGCSE.D,How many of each grade did you receive in SPM / UEC/ IGCSE.E,How many of each grade did you receive in SPM / UEC/ IGCSE.G,How many of each grade did you receive in SPM / UEC/ IGCSE.Absent,Current CGPA,Credit Hours Completed,Have you received any scholarship before?,"If yes, please specify the scholarship name (optional)",Total Household Monthly Income,Number of dependents in your household,Parents’/Guardians’ employment status,Do you have an educational loan?,How active are you in co-curricular activities?,Do you hold any leadership positions?,Number of leadership positions held .President / Project Director ,Number of leadership positions held .Vice President / Assistant Project Director,Number of leadership positions held .Secretary,Number of leadership positions held .Treasurer,Number of leadership positions held .Head of Department,Number of leadership positions held .Assistant Head of Department,Number of leadership positions held .Committee Member ,Do you have any physical/health challenges that impact your finances?,Living situation,Do you agree to let your anonymous data be used for academic purposes (AI project)?
+1,11/21/2025 21:54,11/21/2025 21:57,hamizan678910@gmail.com,Hamizan Fitri,18–20,Yes,Selangor,Yes,Year 2,Computer Science (Hons),No,,,,,,,,,,,,,3.00 – 3.49,30–60,Yes,JPA-PIDN,"B40 (B3): RM3,440 – RM4,309",5–6,Both employed,No,Very active,Yes,0,0,0,0,More than 3,2,More than 3,No,On-campus,"Yes, I agree"
+2,11/21/2025 21:55,11/21/2025 21:57,dhiya_22011273@utp.edu.my,Dhiya Hanani,21–23,Yes,Selangor,Yes,Foundation,Computer Science (Hons),No,,,,,,,,,,,,,3.00 – 3.49,30–60,No,,"T20 (T1): RM11,820 – RM15,869",1–2,One employed,No,Moderately active,No,1,0,2,1,3,2,More than 3,No,On-campus,"Yes, I agree"
+3,11/21/2025 22:13,11/21/2025 22:17,thaqif_22004567@utp.edu.my,Thaqif Hakimi,18–20,Yes,Negeri Sembilan,Yes,Year 2,Business Management (Hons),No,9 subject SPM,0,4,4,0,0,1,0,0,0,0,0,2.50 – 2.99,30–60,No,No scholarship,"M40 (M4): RM9,450 – RM11,819",1–2,Both employed,No,Moderately active,Yes,0,0,0,0,2,0,More than 3,No,On-campus,"Yes, I agree"
+4,11/21/2025 22:13,11/21/2025 22:18,izzatul_22018942@utp.edu.my,Izzatul Husna binti Abdul Manab,18–20,Yes,Kedah,Yes,Year 1,Computer Science (Hons),No,8,3,0,5,1,0,0,0,0,0,0,0,3.00 – 3.49,30–60,Yes,GAMUDA,"B40 (B2): RM2,560 – RM3,439",3–4,One employed,Yes,Highly active (leader/committee),Yes,0,0,0,0,0,0,More than 3,No,On-campus,"Yes, I agree"
+5,11/21/2025 22:15,11/21/2025 22:20,insyirah_22101284@utp.edu.my,Insyirah Amani,18–20,Yes,Terengganu,Yes,Year 2,Computer Science (Hons),No,9,2,3,2,1,1,0,0,0,0,0,0,3.00 – 3.49,30–60,Yes,MARA,"M40 (M1): RM5,250 – RM6,339",3–4,One employed,No,Slightly active,No,0,0,0,2,0,1,More than 3,No,On-campus,"Yes, I agree"
+6,11/21/2025 22:16,11/21/2025 22:25,muhammad_22007821@utp.edu.my,Muhammad Aqil Rahimi bin Mohamad Rasidi,18–20,Yes,Pahang,Yes,Year 2,Computer Science (Hons),No,9,3,1,5,0,0,0,0,0,0,0,0,3.50 – 4.00,30–60,Yes,TAZU Full Foundation and currently TESP Mara,"B40 (B1): Less than RM2,560",3–4,One employed,Yes,Slightly active,Yes,0,0,0,0,0,0,1,No,On-campus,"Yes, I agree"
+7,11/21/2025 22:27,11/21/2025 22:28,imam_22116732@utp.edu.my,Iman Mukhreez shaari,21–23,Yes,Selangor,Yes,Year 2,Information Systems (Hons),No,9,2,1,1,2,0,3,0,0,0,0,0,2.50 – 2.99,30–60,No,-,"T20 (T2): RM15,870 and above",1–2,Both employed,No,Moderately active,Yes,0,0,0,0,2,0,1,No,On-campus,"Yes, I agree"
+8,11/21/2025 22:23,11/21/2025 22:34,jaini_22004328@utp.edu.my,ainul mardhiah rohazli,18–20,Yes,Kelantan,Yes,Year 2,Computer Science (Hons),No,12,6+,3,3,0,6+,0,0,0,0,0,0,3.00 – 3.49,Above 90,No,-,"M40 (M4): RM9,450 – RM11,819",7 and above,Both employed,No,Moderately active,No,0,0,0,0,3,2,More than 3,No,On-campus,"Yes, I agree"
+9,11/21/2025 22:36,11/21/2025 22:39,ammirul_22114509@utp.edu.my,AMMIRRUL ADAM BIN AMRAN,18–20,Yes,Terengganu,Yes,Year 2,Computer Science (Hons),No,11,6+,2,1,0,0,0,0,0,0,0,0,3.50 – 4.00,30–60,Yes,MARA YTP,"M40 (M4): RM9,450 – RM11,819",3–4,Both employed,Yes,Slightly active,Yes,0,0,2,1,0,0,1,No,On-campus,"Yes, I agree"
+10,11/21/2025 22:20,11/21/2025 22:40,ilham_22019833@utp.edu.my,Ilham,18–20,Yes,Kuala Lumpur,Yes,Year 2,Computer Science (Hons),No,10,0,4,4,0,2,0,0,0,0,0,0,3.00 – 3.49,30–60,No,,"T20 (T2): RM15,870 and above",7 and above,Both employed,No,Slightly active,No,0,0,0,0,0,0,2,No,On-campus,"Yes, I agree"
+11,11/21/2025 22:42,11/21/2025 22:43,iqbal_22102354@utp.edu.my,Iqbal Othman,18–20,Yes,Kelantan,Yes,Foundation,Chemical Engineering (Hons),No,9,3,3,2,1,0,0,0,0,0,0,0,3.50 – 4.00,30–60,Yes,TAZU,"B40 (B3): RM3,440 – RM4,309",5–6,Both employed,Yes,Slightly active,Yes,1,0,0,0,1,0,2,No,On-campus,"Yes, I agree"
+12,11/21/2025 22:43,11/21/2025 22:46,fina_22008764@utp.edu.my,Hana Syafiqa Binti Yunus,18–20,Yes,Selangor,Yes,Year 2,Mechanical Engineering (Hons),No,9,6+,2,1,0,0,0,0,0,0,0,0,3.50 – 4.00,30–60,Yes,YUTP,"B40 (B4): RM4,310 – RM5,249",3–4,Both employed,No,Very active,Yes,2,2,0,1,0,0,2,No,On-campus,"Yes, I agree"
+13,11/21/2025 22:46,11/21/2025 22:48,muhammad_22015482@utp.edu.my,Muhammad Zulkifli Bin Yazid Salleh,24+,Yes,Selangor,Yes,Year 4,Electrical & Electronics Engineering (Hons),Yes,10,5,2,3,0,0,0,0,0,0,0,0,3.50 – 4.00,Above 90,Yes,PESP,"M40 (M1): RM5,250 – RM6,339",3–4,Both employed,No,Slightly active,Yes,0,0,0,0,2,1,1,Yes,On-campus,"Yes, I agree"
+14,11/21/2025 22:47,11/21/2025 22:51,ahmad_22119340@utp.edu.my,Ahmad Muqri,18–20,Yes,Pahang,Yes,Year 2,Computer Science (Hons),No,9,2,4,0,1,2,4,0,0,0,0,0,3.50 – 4.00,30–60,No,,"T20 (T2): RM15,870 and above",5–6,One employed,Yes,Slightly active,No,0,0,0,1,0,0,1,No,On-campus,"Yes, I agree"
+15,11/21/2025 22:29,11/21/2025 22:52,andy_22114577@utp.edu.my,Andy ,18–20,Yes,Johor,No,Year 2,Electrical & Electronics Engineering (Hons),No,10,6+,4,0,0,0,0,0,0,0,0,0,3.50 – 4.00,Above 90,No,n,"B40 (B1): Less than RM2,560",1–2,Both employed,Yes,Not active,Yes,1,3,3,0,2,2,2,No,On-campus,No
+16,11/21/2025 22:51,11/21/2025 22:54,ikhwan_22116492@utp.edu.my,Ikhwan Hafizi Bin Muhamad Saifuldin,18–20,Yes,Kelantan,Yes,Year 2,Computer Science (Hons),No,9,5,2,1,1,0,0,0,0,0,0,0,3.50 – 4.00,30–60,Yes,MARA Young Talent Programme ,"M40 (M2): RM6,340 – RM7,689",1–2,Both employed,Yes,Highly active (leader/committee),Yes,3,1,0,0,2,0,3,No,On-campus,"Yes, I agree"
+17,11/21/2025 22:54,11/21/2025 22:56,fatiha_22001129@utp.edu.my,Fatiha,21–23,Yes,Johor,Yes,Year 2,Computer Science (Hons),No,9,6+,0,0,0,0,0,0,0,0,0,0,3.50 – 4.00,30–60,Yes,Petronas,"T20 (T1): RM11,820 – RM15,869",1–2,Both employed,No,Moderately active,Yes,0,0,0,0,1,0,More than 3,No,On-campus,"Yes, I agree"
+18,11/21/2025 22:53,11/21/2025 22:57,park_22117504@utp.edu.my,Park Chaeyoung,18–20,No,Kuala Lumpur,No,Year 2,Business Management (Hons),No,9,6+,0,0,0,0,0,0,0,0,0,0,3.50 – 4.00,30–60,No,,"T20 (T2): RM15,870 and above",3–4,One employed,No,Moderately active,Yes,0,0,1,0,1,0,0,No,On-campus,"Yes, I agree"
+19,11/21/2025 22:55,11/21/2025 22:57,nurul_22004873@utp.edu.my,Nurul Ain Fadhila binti Jefree,21–23,Yes,Kedah,Yes,Year 3,Petroleum Engineering (Hons),No,9,5,3,1,0,0,0,0,0,0,0,0,2.50 – 2.99,30–60,Yes,TESP MARA,"B40 (B4): RM4,310 – RM5,249",3–4,Both employed,Yes,Moderately active,No,1,2,0,0,1,0,1,No,On-campus,"Yes, I agree"
+20,11/21/2025 22:48,11/21/2025 22:58,nuramin_22013258@utp.edu.my,Nur Amni Syazwani,18–20,Yes,Selangor,Yes,Year 2,Computer Science (Hons),No,9,4,1,2,2,0,0,0,0,0,0,0,3.50 – 4.00,Below 30,Yes,YTP MARA,"B40 (B1): Less than RM2,560",3–4,None employed,Yes,Slightly active,Yes,0,0,0,0,1,0,0,No,On-campus,"Yes, I agree"
+21,11/21/2025 22:57,11/21/2025 23:06,khadijah_22019820@utp.edu.my,khadijah,18–20,Yes,Selangor,Yes,Year 2,Computer Science (Hons),No,12,2,2,4,2,0,1,0,0,0,0,1,3.00 – 3.49,30–60,No,,"T20 (T2): RM15,870 and above",5–6,Both employed,No,Moderately active,Yes,1,1,0,0,2,0,More than 3,No,On-campus,"Yes, I agree"
+22,11/21/2025 23:10,11/21/2025 23:13,muhammmad_22013361@utp.edu.my,Muhammad Haziq Aiman,18–20,Yes,Selangor,Yes,Year 2,Chemical Engineering (Hons),No,9,0,5,3,1,0,0,0,0,0,0,0,3.50 – 4.00,Below 30,Yes,Mara,"M40 (M2): RM6,340 – RM7,689",1–2,None employed,Yes,Very active,Yes,0,0,0,0,More than 3,0,0,No,On-campus,"Yes, I agree"
+23,11/21/2025 23:13,11/21/2025 23:14,muhammmad_22103247@utp.edu.my,Muhammad Haris haziq ,18–20,Yes,Johor,Yes,Year 2,Chemical Engineering (Hons),No,9,0,5,2,2,0,0,0,0,0,0,0,3.50 – 4.00,Below 30,Yes,Mara,"M40 (M2): RM6,340 – RM7,689",1–2,None employed,Yes,Highly active (leader/committee),Yes,0,0,0,0,More than 3,More than 3,2,No,On-campus,"Yes, I agree"
+24,11/21/2025 23:49,11/21/2025 23:52,adam_22115206@utp.edu.my,Adam Mustaqim bin Rosli ,18–20,Yes,Perak,Yes,Year 2,Computer Science (Hons),Yes,9,1,3,3,1,1,0,0,0,0,0,0,3.50 – 4.00,30–60,Yes,JPA,"B40 (B1): Less than RM2,560",3–4,One employed,Yes,Slightly active,No,0,0,0,0,0,0,1,No,On-campus,"Yes, I agree"
+25,11/21/2025 23:53,11/21/2025 23:57,ainul_22015894@utp.edu.my,Ainul Marissa,21–23,Yes,Negeri Sembilan,Yes,Year 2,Business Management (Hons),No,8,2,3,1,1,0,0,0,0,0,0,0,3.50 – 4.00,30–60,No,,"M40 (M2): RM6,340 – RM7,689",3–4,One employed,No,Very active,Yes,1,2,0,0,0,0,2,No,On-campus,"Yes, I agree"
+26,11/22/2025 0:20,11/22/2025 0:23,mohamad_22117340@utp.edu.my,MOHAMAD NADZMI BIN NASRON ,18–20,Yes,Selangor,Yes,Year 2,Computer Science (Hons),No,9,1,2,2,1,1,2,0,0,0,0,0,3.00 – 3.49,30–60,No,,"M40 (M4): RM9,450 – RM11,819",3–4,One employed,Yes,Moderately active,Yes,0,1,0,1,1,1,2,No,On-campus,No
+27,11/22/2025 0:39,11/22/2025 0:41,aisyah_22114783@utp.edu.my,Alysha Raihana,18–20,Yes,Perak,Yes,Year 2,Computer Science (Hons),No,10,2,2,3,0,2,1,0,0,0,0,0,3.50 – 4.00,Above 90,Yes,Maxis Scholarship 2024,"T20 (T2): RM15,870 and above",1–2,One employed,No,Highly active (leader/committee),Yes,1,0,0,0,More than 3,More than 3,More than 3,No,On-campus,"Yes, I agree"
+28,11/21/2025 23:57,11/22/2025 0:56,amirul_22018821@utp.edu.my,Amirul Adham,21–23,Yes,Melaka,Yes,Year 3,Computer Engineering (Hons),Yes,9,5,1,3,0,0,0,0,0,0,0,0,3.00 – 3.49,30–60,Yes,,"B40 (B3): RM3,440 – RM4,309",5–6,Both employed,Yes,Moderately active,Yes,2,0,0,0,1,2,2,No,On-campus,"Yes, I agree"
+29,11/22/2025 14:13,11/22/2025 14:15,abdul_22116572@utp.edu.my,ABDUL IZZANY BIN HELMY,18–20,Yes,Selangor,Yes,Year 2,Computer Science (Hons),No,9,0,0,0,0,0,0,0,0,0,0,0,3.00 – 3.49,30–60,No,,"B40 (B3): RM3,440 – RM4,309",7 and above,One employed,Yes,Moderately active,Yes,0,0,0,0,1,0,3,No,On-campus,"Yes, I agree"
+30,11/22/2025 14:21,11/22/2025 14:27,muhammad_22114093@utp.edu.my,Muhammad Adam Zharfan Bin Muhammad Asri ,18–20,Yes,Kuala Lumpur,Yes,Year 2,Computer Science (Hons),No,9,3,1,1,4,0,0,0,0,0,0,0,3.50 – 4.00,30–60,No,,"T20 (T2): RM15,870 and above",7 and above,One employed,No,Moderately active,Yes,0,1,0,0,2,1,More than 3,No,On-campus,"Yes, I agree"
+31,11/24/2025 20:09,11/24/2025 20:12,nur_22014650@utp.edu.my,Nur Aisyah Binti Mamat ,18–20,Yes,Johor,Yes,Foundation,Civil Engineering (Hons),No,9,2,3,4,0,0,0,0,0,0,0,0,3.50 – 4.00,Below 30,No,,"B40 (B1): Less than RM2,560",3–4,One employed,No,Slightly active,No,0,0,0,0,0,0,0,No,On-campus,"Yes, I agree"
+32,11/24/2025 20:12,11/24/2025 20:14,azlan_22113304@utp.edu.my,Azlan Bin Mohd Nordin,21–23,Yes,Kelantan,Yes,Year 1,Civil Engineering (Hons),No,9,4,2,2,1,0,0,0,0,0,0,0,3.50 – 4.00,30–60,Yes,TAZU,"B40 (B2): RM2,560 – RM3,439",3–4,Both employed,No,Moderately active,No,0,0,0,0,0,0,2,No,On-campus,"Yes, I agree"
+33,11/24/2025 20:14,11/24/2025 20:15,siti_22115863@utp.edu.my,Siti Nur Nadia Binti Mohd Sulaiman,21–23,Yes,Selangor,Yes,Year 3,Petroleum Engineering (Hons),No,9,5,4,0,0,0,0,0,0,0,0,0,3.50 – 4.00,Above 90,Yes,PESP,"B40 (B4): RM4,310 – RM5,249",3–4,Both employed,No,Highly active (leader/committee),Yes,2,1,1,1,0,0,3,No,On-campus,"Yes, I agree"
+34,11/24/2025 20:15,11/24/2025 20:16,hariz_22114908@utp.edu.my,Hariz Haziq Bin Syuib Mahmood,18–20,Yes,Melaka,Yes,Foundation,Chemical Engineering (Hons),No,9,3,3,2,1,0,0,0,0,0,0,0,3.50 – 4.00,Below 30,No,,"B40 (B4): RM4,310 – RM5,249",5–6,Both employed,No,Not active,No,0,0,0,0,0,0,0,No,On-campus,"Yes, I agree"
+35,11/24/2025 20:16,11/24/2025 20:17,maya_22015672@utp.edu.my,Maya Kamaruddin,21–23,Yes,Kedah,Yes,Foundation,Business Management (Hons),Yes,9,2,1,3,3,0,0,0,0,0,0,0,3.00 – 3.49,Below 30,No,,"M40 (M1): RM5,250 – RM6,339",3–4,One employed,No,Slightly active,No,0,0,0,0,0,0,2,No,On-campus,"Yes, I agree"
+36,11/24/2025 20:18,11/24/2025 20:21,wan_22119732@utp.edu.my,WAN AMISYA SYAFIRA BINTI WAN AZMAN,21–23,Yes,Kelantan,Yes,Year 2,Computer Science (Hons),No,9,5,3,1,0,0,0,0,0,0,0,0,3.00 – 3.49,30–60,Yes,YTAR,"B40 (B1): Less than RM2,560",1–2,One employed,Yes,Slightly active,Yes,0,0,0,0,1,0,0,No,On-campus,"Yes, I agree"
+37,11/24/2025 20:21,11/24/2025 20:22,danish_22108214@utp.edu.my,Danish Norddin,18–20,Yes,Kedah,Yes,Year 1,Chemical Engineering (Hons),No,9,4,2,3,0,0,0,0,0,0,0,0,3.50 – 4.00,30–60,No,,"B40 (B2): RM2,560 – RM3,439",3–4,One employed,No,Moderately active,Yes,1,0,0,0,0,0,0,No,On-campus,"Yes, I agree"
+38,11/24/2025 20:22,11/24/2025 20:23,siti_22019453@utp.edu.my,Siti Nur Humaira,24+,Yes,Terengganu,Yes,Year 1,Civil Engineering (Hons),Yes,9,3,4,2,0,0,0,0,0,0,0,0,3.00 – 3.49,30–60,No,,"B40 (B3): RM3,440 – RM4,309",3–4,One employed,No,Not active,No,0,0,0,0,0,0,0,No,On-campus,"Yes, I agree"
+39,11/24/2025 20:23,11/24/2025 20:25,ofea_22017689@utp.edu.my,Sofea Abdul Yunus,18–20,Yes,Pulau Pinang,Yes,Foundation,Electrical & Electronics Engineering (Hons),No,9,2,4,2,1,0,0,0,0,0,0,0,3.00 – 3.49,Below 30,Yes,TAZU,"B40 (B4): RM4,310 – RM5,249",5–6,Both employed,No,Slightly active,Yes,0,1,0,0,0,0,0,No,On-campus,"Yes, I agree"
+40,11/24/2025 20:25,11/24/2025 20:26,ahmed_22103362@utp.edu.my,Ahmed,18–20,No,Not a Malaysian citizen.,No,Year 1,Computer Science (Hons),No,10,5,1,2,1,0,0,0,0,0,0,0,2.50 – 2.99,Below 30,No,,"M40 (M3): RM7,690 – RM9,449",5–6,One employed,No,Not active,No,0,0,0,0,0,0,0,No,On-campus,"Yes, I agree"
+41,11/24/2025 20:26,11/24/2025 20:29,nuraina_22018975@utp.edu.my,Nuraina,18–20,Yes,Putrajaya,Yes,Year 1,Information Technology (Hons),Yes,9,4,2,1,2,0,0,0,0,0,0,0,3.50 – 4.00,Below 30,No,,"B40 (B4): RM4,310 – RM5,249",5–6,One employed,No,Slightly active,Yes,0,1,0,0,0,0,0,No,On-campus,"Yes, I agree"
+42,11/24/2025 20:29,11/24/2025 20:30,muhd_22118546@utp.edu.my,Muhd Irfan Bin Hamid,21–23,Yes,Kedah,Yes,Foundation,Electrical & Electronics Engineering (Hons),Yes,8,3,2,1,1,2,0,0,0,0,0,0,3.00 – 3.49,Below 30,No,,"M40 (M2): RM6,340 – RM7,689",5–6,One employed,No,Not active,No,0,0,0,0,0,0,0,No,On-campus,"Yes, I agree"
+43,11/24/2025 20:30,11/24/2025 20:31,nur_22011908@utp.edu.my,Nur Izzati Putri,24+,Yes,Melaka,Yes,Year 1,Petroleum Engineering (Hons),No,9,4,4,0,0,0,0,0,0,0,0,0,3.00 – 3.49,30–60,No,,"M40 (M1): RM5,250 – RM6,339",5–6,One employed,No,Moderately active,Yes,1,2,0,0,0,2,2,No,On-campus,"Yes, I agree"
+44,11/24/2025 20:31,11/24/2025 20:32,syakirah_22117620@utp.edu.my,Syahirah,18–20,Yes,Kelantan,Yes,Year 2,Civil Engineering (Hons),No,9,3,3,2,1,0,0,0,0,0,0,0,3.00 – 3.49,Below 30,Yes,YT,"B40 (B3): RM3,440 – RM4,309",3–4,One employed,No,Not active,No,0,0,0,0,0,0,0,No,On-campus,"Yes, I agree"
+45,11/24/2025 20:32,11/24/2025 20:34,rizal_22017759@utp.edu.my,RIZAL,21–23,Yes,Kelantan,Yes,Year 3,Business Management (Hons),No,9,2,4,2,1,0,0,0,0,0,0,0,3.50 – 4.00,30–60,No,,"M40 (M1): RM5,250 – RM6,339",3–4,One employed,No,Not active,No,0,0,0,0,0,0,0,No,On-campus,"Yes, I agree"
+46,11/24/2025 20:34,11/24/2025 22:06,ahmad_22018763@utp.edu.my,Ahmad Syamil Bin Alias,24+,Yes,Negeri Sembilan,Yes,Year 4,Civil Engineering (Hons),Yes,9,2,4,3,0,0,0,0,0,0,0,0,3.50 – 4.00,Above 90,No,,"T20 (T1): RM11,820 – RM15,869",5–6,Both employed,No,Not active,No,0,0,0,0,0,0,2,No,On-campus,"Yes, I agree"
+47,11/24/2025 22:06,11/24/2025 22:07,nur_22115294@utp.edu.my,Nur Izzati Bin Alias,21–23,Yes,Negeri Sembilan,Yes,Year 2,Civil Engineering (Hons),No,9,3,3,2,1,0,0,0,0,0,0,0,3.50 – 4.00,61–90,No,,"T20 (T1): RM11,820 – RM15,869",5–6,Both employed,No,Very active,Yes,0,2,1,1,0,1,3,Prefer not to say,On-campus,"Yes, I agree"
+48,11/24/2025 22:07,11/24/2025 22:10,farah_22014136@utp.edu.my,Farah Azlan,18–20,Yes,Selangor,Yes,Year 1,Mechanical Engineering (Hons),Yes,9,2,1,4,1,1,0,0,0,0,0,0,3.50 – 4.00,30–60,No,,"M40 (M2): RM6,340 – RM7,689",3–4,Both employed,No,Not active,No,0,0,0,0,0,1,2,No,On-campus,"Yes, I agree"
+49,11/24/2025 22:10,11/24/2025 22:12,siti_22116044@utp.edu.my,Siti Nur Diana Binti Mohd Nawie,21–23,Yes,Melaka,Yes,Foundation,Information Technology (Hons),No,9,4,3,2,0,0,0,0,0,0,0,0,3.00 – 3.49,30–60,No,,"M40 (M4): RM9,450 – RM11,819",5–6,Both employed,No,Slightly active,Yes,0,0,0,0,0,0,3,No,On-campus,"Yes, I agree"
+50,11/24/2025 22:12,11/24/2025 22:14,siti_22112509@utp.edu.my,Siti Nur Nadia Binti Mohd Nawie,21–23,Yes,Melaka,Yes,Year 1,Civil Engineering (Hons),No,9,3,2,3,1,0,0,0,0,0,0,0,3.50 – 4.00,30–60,No,,"T20 (T1): RM11,820 – RM15,869",5–6,Both employed,No,Not active,No,0,0,0,0,0,0,0,No,On-campus,"Yes, I agree"
+51,11/24/2025 22:20,11/24/2025 22:23,peiqi_22119473@utp.edu.my,Pei Qi,21–23,Yes,Pulau Pinang,No,Year 2,Computer Science (Hons),No,10,1,5,0,4,0,0,0,0,0,0,0,3.00 – 3.49,30–60,Yes,YUTP,"M40 (M4): RM9,450 – RM11,819",1–2,One employed,Yes,Highly active (leader/committee),Yes,0,1,0,0,0,0,2,No,On-campus,"Yes, I agree"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
