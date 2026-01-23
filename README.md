@@ -166,5 +166,70 @@ In addition to the main project files, the repository also includes supporting d
 - [**Presentation Slides**](https://drive.google.com/file/d/14xQhCi0-5KRvgVhhsEi8SvxZLr2UcXxT/view?usp=sharing) – Slides used for project demonstration and presentations.  
 - [**Flowchart**](https://drive.google.com/file/d/14xQhCi0-5KRvgVhhsEi8SvxZLr2UcXxT/view?usp=sharing) – Visual representation of the system workflow and logic for easier understanding.
 
+---
 
+## 🤖 RPA Exercise: Automated Student Assignment Processing
 
+This project demonstrates the use of **Robotic Process Automation (RPA)** using **Microsoft Power Automate** to automate student assignment submissions.
+
+### 🎯 Objective
+
+To reduce manual workload, improve accuracy, and ensure consistent documentation in handling student assignments.
+
+### ✨ Key Features
+
+* Automatic submission date comparison (on-time / late)
+* Standardized folder structure and file naming
+* Conditional email notifications to students
+* Real-time tracking and status updates using Excel
+
+### 🔄 Workflow Overview
+
+1. **Trigger**: Microsoft Forms submission
+2. **Data Processing**:
+
+   * Extract and store data in Excel
+   * Compare submission date with due date
+   * Send confirmation or late notification email
+3. **File Management**:
+
+   * Auto-generate standardized file name
+   * Save files into organized folders
+4. **Tracking**:
+
+   * Update email status in Excel automatically
+
+---
+
+## 📂 Project Files
+
+* [**LeePeiLin_20251120152827**](https://github.com/niliepl/AI_ClassProject/tree/main/LeePeiLin_20251120152827)
+  Exported Microsoft Power Automate flow for automated student assignment processing.
+
+* [**AI_RPA.pdf**](https://github.com/niliepl/AI_ClassProject/blob/main/AI_RPA.pdf)
+  Project report explaining the objective, workflow design, features and outcomes of the RPA solution.
+
+---
+
+## ▶️ How to Run the Program
+
+1. Download  **LeePeiLin_20251120152827**.
+2. Log in to **Microsoft Power Automate**.
+3. Go to **My flows** → **Import**.
+4. Upload the extracted flow package.
+5. Reconfigure required connections:
+
+   * Microsoft Forms
+   * Outlook (Email)
+   * OneDrive / SharePoint
+   * Excel Online
+6. Update:
+
+   * Assignment **due date**
+   * Target **folder path** for file storage
+7. Turn on the flow.
+8. Submit a test response via the **Microsoft Forms Assignment Submission Portal** to verify:
+
+   * File creation
+   * Email notification (on-time / late)
+   * Excel status update
